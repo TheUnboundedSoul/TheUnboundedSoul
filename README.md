@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheUnboundedSoul
 - 🌱 I’m currently learning code
 
-![Discord Shield](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=shield)
+<img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=shield" alt="Discord Shield"/>
 
 <!---
 TheUnboundedSoul/TheUnboundedSoul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
